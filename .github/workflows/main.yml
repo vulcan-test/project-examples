@@ -4,9 +4,9 @@ on:
   push:
     branches:
       - main
-  schedule:
-    # The repository will be scanned once a day at 00:00 GMT.
-    - cron: "0 0 * * *"
+  # schedule:
+  #   # The repository will be scanned once a day at 00:00 GMT.
+  #   - cron: "0 0 * * *"
       
 jobs:
   build-and-tag:
