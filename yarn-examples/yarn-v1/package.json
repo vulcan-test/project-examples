@@ -6,7 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "json": "9.0.6",
-    "minimist": "1.2.5",
+    "minimist": "1.2.6",
     "tough-cookie": "2.5.0"
   },
   "packageManager": "yarn@1.22.19"
